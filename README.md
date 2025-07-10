@@ -2,7 +2,7 @@
 
 <img src="icon.png" alt="Icon" width="125">
 
-- Please refer to [main.ipynb](https://github.com/arz03/CME_Analysis/blob/main/notebooks/main.ipynb)  
+- Please refer to [notebooks/main.ipynb](https://github.com/arz03/CME_Analysis/blob/main/notebooks/main.ipynb)  
 <br><br>
 
 Analyzing ISRO Aditya-L1's SWIS payload to detect and predict ICME (Interplanetary Coronal Mass Ejections).  
